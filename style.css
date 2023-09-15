@@ -75,6 +75,14 @@ input:checked + .slider::before{
     border-radius: 50%;
 }
 
+/* Hero Background Image */
+.bgimage{
+    height: 100vh;
+    background: url(Yumyulack.WEBP);
+    background-size: cover;
+    position: relative;
+}
+
 /* text css above hero image */
 .hero_title{
     font-size: 4.5rem;
