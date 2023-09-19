@@ -101,3 +101,8 @@ input:checked + .slider::before{
     color: darkgreen;
 }
 
+/* About Section CSS */
+.imageAboutPage{
+    width: 100%;
+}
+
