@@ -77,8 +77,9 @@ input:checked + .slider::before{
 
 /* Hero Background Image */
 .bgimage{
-    height: 200vh;
-    /* background: url(Yumyulack.AVIF); */
+    height: 100vh;
+    width: 100vh;
+    background: url(STS.png);
     background-size: cover;
     position: relative;
 }
