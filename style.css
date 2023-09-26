@@ -127,3 +127,8 @@ input:checked + .slider::before{
     border: 1px solid #008000;
 }
 
+/* NavbarDark Styling */
+.navbarScroll.navbarDark{
+    background-color: green;
+}
+
