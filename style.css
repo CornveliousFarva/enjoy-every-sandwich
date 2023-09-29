@@ -132,6 +132,19 @@ input:checked + .slider::before{
     background-color: green;
 }
 
+/* Contact Section Styling */
+#embed-map-canvas{
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.map{
+    height: 100%;
+    width: 100%;
+    border: 0;
+}
+
 /* social media icons styling */
 .social-icons {
     font-size: 36px;
