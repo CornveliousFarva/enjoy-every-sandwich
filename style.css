@@ -109,7 +109,7 @@ input:checked + .slider::before{
 
 /* Services Section CSS */
 .servicesText.card {
-    height: 280px;
+    height: auto;
     cursor: pointer;
   }
 .servicesIcon {
