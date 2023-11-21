@@ -108,13 +108,10 @@ input:checked + .slider::before{
 }
 
 /* Services Section CSS */
-.services{
-    cursor: pointer;
-}
 
 .servicesText.card {
     height: auto;
-    cursor: pointer;
+    cursor: default;
   }
 .servicesIcon {
     font-size: 36px;
